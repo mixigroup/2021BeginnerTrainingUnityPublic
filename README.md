@@ -32,3 +32,13 @@ PUN 2 のバージョンは 2.29.0 で動作確認しております。
 TutorialプロジェクトおよびRingCrisisプロジェクトで使用しています。
 
 それぞれプロジェクトを開いたら、メニューから [Window]>[TextMeshPro]>[Import TMP Essential Resources] を実行することで必要なアセットがインポートされます。
+
+## 研修資料
+
+研修で使用した資料は以下に公開されています。
+
+- [ゲーム開発研修 - 基礎編](https://speakerdeck.com/mixi_engineers/2021-game-training)
+- [ゲーム開発研修 - 応用編](https://speakerdeck.com/yuukiaria/game-development-tutorial-2021)
+- [Unity開発事例紹介](https://speakerdeck.com/adarapata/unitydefalsekai-fa-shi-li)
+- [Unityを用いた教育事業への取り組み紹介](https://speakerdeck.com/mixi_engineers/unity-study)
+- [Unity DOTSとマルチプレイ](https://speakerdeck.com/july1997/22-10-30-18-30)
