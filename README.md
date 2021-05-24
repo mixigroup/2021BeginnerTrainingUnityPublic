@@ -42,3 +42,5 @@ TutorialプロジェクトおよびRingCrisisプロジェクトで使用して�
 - [Unity開発事例紹介](https://speakerdeck.com/adarapata/unitydefalsekai-fa-shi-li)
 - [Unityを用いた教育事業への取り組み紹介](https://speakerdeck.com/mixi_engineers/unity-study)
 - [Unity DOTSとマルチプレイ](https://speakerdeck.com/july1997/22-10-30-18-30)
+
+2021年度新卒技術研修については[こちら](https://medium.com/mixi-developers/21-technical-training-a0bcdbf9bca0)で全体的な紹介をしております。
