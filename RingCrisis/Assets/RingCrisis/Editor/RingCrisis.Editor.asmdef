@@ -1,0 +1,17 @@
+{
+    "name": "RingCrisis.Editor",
+    "references": [
+        "GUID:4d09839e4e8f64b44bbc186ef3f9ed49"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
